@@ -7,11 +7,11 @@ import github
 import minecraft
 import string
 import sys
-HOST = "irc.libera.chat"
+HOST = "xeroxirc.net"
 PORT = 6667
-NICK = "DoveBot"
+NICK = "ak_sus"
 #PASSWORD = os.getenv("PASSWORD")
-CHANNEL = "##BlockySurvival"
+CHANNEL = "#BlockySurvival"
 SERVER = ""
 readbuffer = ""
 def send(message):
